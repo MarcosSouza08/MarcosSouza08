@@ -8,12 +8,15 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Studying **Systems Analysis and Development** @ Anhembi Morumbi *(graduating 2028)*
-- 🔭 Currently building a **JWT Authentication API** with Spring Security
-- 🌱 Deepening my knowledge in **Spring Boot**, **Spring Security** and **PostgreSQL**
-- 💼 Looking for a **backend internship** opportunity
-- 📍 Cotia, SP — Brazil
-- ⚡ I don't just want code that works — I want to understand *why* it works
+```bash
++ Location:    Cotia, SP — Brazil
++ Education:   Systems Analysis and Development @ Anhembi Morumbi (2028)
++ Focus:       Backend Development with Java & Spring Boot
+- Currently:   Building a JWT Authentication API with Spring Security
+- Learning:    Spring Security · PostgreSQL · JWT · BCrypt
+! Looking for: Backend internship opportunity
+# Philosophy:  I don't just want code that works — I want to understand why it works
+```
 
 ---
 
@@ -25,6 +28,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
 **Database**
 
