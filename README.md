@@ -12,7 +12,7 @@
 + Location:    Cotia, SP — Brazil
 + Education:   Systems Analysis and Development @ Anhembi Morumbi (2028)
 + Focus:       Backend Development with Java & Spring Boot
-- Currently:   Building a JWT Authentication API with Spring Security
+- Currently:   Building scalable backend applications with Spring Boot
 - Learning:    Spring Security · PostgreSQL · JWT · BCrypt
 ! Looking for: Backend internship opportunity
 # Philosophy:  I don't just want code that works — I want to understand why it works
@@ -68,14 +68,19 @@
 
 ---
 
-#### 🔐 JWT Authentication API *(in progress)*
-> Stateless auth system with Spring Security + JWT, designed to integrate with Task Manager.
+#### 🔐 [JWT Authentication API](https://github.com/MarcosSouza08/AuthAPI)
+> Secure REST authentication API built with Spring Security and JWT.
 
-- 🔒 JWT token generation & validation
-- 🔒 BCrypt password encryption
-- 🔒 Role-based access control
+- ✅ JWT token generation & validation
+- ✅ Role-based authorization *(USER / ADMIN)*
+- ✅ BCrypt password encryption
+- ✅ Protected endpoints with Spring Security
+- ✅ Global exception handling
+- ✅ PostgreSQL integration
+- ✅ Bilingual README (PT/EN)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
